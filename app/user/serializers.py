@@ -1,6 +1,8 @@
 """
 Serializers for the user API.
 """
+from django.models import Model
+
 
 from django.contrib.auth import get_user_model
 
