@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     # Project apps
     'core',
     'user',
+    'recipe',
 
     # Third party apps
     'rest_framework',
